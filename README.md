@@ -1,4 +1,4 @@
-<img src="https://komarov.com/ghpvc/?username=AbdusamadMansurov" alt="view"/>
+<img src="https://komarev.com/ghpvc/?username=AbdusamadMansurov&style=flat-square&color=blue" alt="view"/>
 
 - 👋 Hi, I’m @AbdusamadMansurov
 - 👀 I’m interested in ...
